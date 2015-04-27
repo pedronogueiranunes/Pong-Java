@@ -5,6 +5,8 @@ import java.applet.*; //Classe para exportar o app como um applet
 import java.awt.*; //Classes da biblioteca Advanced Windows Toolkit
 import java.awt.event.*;
 
+//Comentario irrelevante
+
 
 public class pongMain extends Applet implements MouseMotionListener, ActionListener{
 
